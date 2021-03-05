@@ -64,16 +64,15 @@ section {
 }
 
 section h1 {
-    font-size: 2.5rem;
+    font-size: 2.0rem;
 }
 
 section p {
-    font-size: 1.5rem;
+    font-size: 1.0rem;
 }
 
 section a {
-    font-size: 1.5rem;
-    color: royalblue;
+    color: deepskyblue;
     text-decoration: none;
 }
 
